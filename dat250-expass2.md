@@ -21,7 +21,7 @@ Derby 10.14.2.0 was installed and tested by completing the tutorial given in the
 
 ![Junit success](https://github.com/h181214/250_EXP_2/blob/master/pics/Skjermbilde%202020-09-04%20kl.%2013.44.54.png)
 
-Note: I had an unresolved issue were if i used Junit 5, an error message conatining: <i> No test found using Junit 5 </i> , changing to Junit 4 is a temporary solution. 
+Note: I had an unresolved issue were if I used Junit 5, an error message conatining: <i> No test found using Junit 5 </i> , changing to Junit 4 is a temporary solution. 
 
 
 ## Other unresolved issues
